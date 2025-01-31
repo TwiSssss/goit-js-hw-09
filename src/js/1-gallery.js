@@ -1,4 +1,4 @@
-import SimpleLightbox from "https://cdn.jsdelivr.net/npm/simplelightbox@2.5.0/dist/simple-lightbox.min.js";
+import SimpleLightbox from "simplelightbox";
 import 'simplelightbox/dist/simple-lightbox.min.css'; 
 
 const images = [
